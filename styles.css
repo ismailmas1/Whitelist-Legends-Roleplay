@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: url(https://i.pinimg.com/736x/f2/48/69/f248697d2cc00c5772d063f916ec4f65.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Abute {
+    text-align: center;
+}
+label {
+    font-weight: 600;
+    color: white;
+    margin: 0px 10px;
+}
+input {
+    margin: 15px 0;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(247, 247, 247);
+    
+}
+h2 {
+    color: white;
+    margin: 10px 0;
+}
+h1 {
+    color: white;
+    margin: 15px 0;
+}   
+textarea {
+    padding: 30px 50px;
+    position: relative;
+    left: 50px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.aa {
+    position: relative;
+    left: 5px;
+}
+.aa1 {
+    position: relative;
+    left: 15px;
+}
+button {
+    padding: 10px 50px;
+    margin: 30px 0;
+    position: relative;
+    left: 3.5%;
+    top: -15px;
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+button:hover {
+    transform: rotate(1.5);
+    background-color: rgb(238, 255, 0);
+}
